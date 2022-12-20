@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: purple;
+}
+
+div {
+    background: darkgreen;
+    border-style: solid;
+}
+
+p {
+    color: white;
+}
+
+.yellow-text {
+    color: yellow;
+}
+
+#food-list {
+    font-size: 40px;
+    color: azure;
+}
